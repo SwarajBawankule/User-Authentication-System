@@ -42,9 +42,5 @@ npm install react-router-dom
 
 
 
-# Our Playlists On YouTube:
- - Laravel 9:
-  https://www.youtube.com/playlist?list=PLT51dtioU1pMRjcKAxaFzvWu8Sts_UxoC
- - Nuxt Js
-  https://www.youtube.com/playlist?list=PLT51dtioU1pPGuiF-LUncoy4dBlNZQZBR
+
  
